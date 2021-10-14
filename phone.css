@@ -1,0 +1,44 @@
+#navbar{
+    flex-direction: column;
+    /* height: 10px; */
+    
+}
+#navbar ul li a{
+    font-size: 1rem;
+}
+#home::before{
+     height: 400px; 
+}
+#home{
+    justify-content: center;
+    align-items: center;
+}
+.h-primary{
+    text-align: center;
+}
+#home p{
+    text-align: center;
+}
+
+#services{
+    flex-direction: column;
+}
+.box img{
+    width: 147px;
+}
+.client{
+  flex-wrap: wrap;
+}
+/* .contact{
+    flex-wrap: wrap;
+} */
+.form-group input{
+    width: 100%;
+
+}
+.form-group textarea{
+    width: 100%;
+}
+button{
+    width: 100%;
+}
